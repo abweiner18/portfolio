@@ -1,10 +1,10 @@
 # Anita Weiner - Technical Writing Portfolio
-## [Instruction Manual](AnitaWeiner_ACADocument.pdf)
+## [How-To Guide](AnitaWeiner_ACADocument.pdf)
 This document contains instructions and examples for Human Resources personnel at ABC Technologies, a fictional company, to complete the main section of an IRS form required for annual Affordable Care Act (ACA) compliance. 
 ## [Video Tutorial](Anita_HW_Camtasia3.mp4)
-Learn how to set-up and use the HTML live preview feature in the Atom text editor. *Produced with Camtasia*. 
+Learn how to set-up and use the HTML live preview feature in the Atom text editor. *Produced in Camtasia*. 
 ## Authoring Tools
-Learn how to set-up and use the syntax highlighting and live preview features for HTML, Markdown, and RST in the Atom text editor.  
+For the beginner using the Atom text editor, this short guide explains how to set-up and use the syntax highlighting and live preview features for HTML, Markdown, and RST.  
 * [DITA/Oxygen Author – Web Help](Anita_DITA_HW/Anita_Revised/out/webhelp-responsive/index.html)
 * [DITA/Oxygen Author - PDF](Anita_DITA_HW/Anita_Revised/out/pdf-css-html5/PDF.pdf)
 * [RST/Sphinx/Read the Docs](https://atom-preview.readthedocs.io/en/latest/)  
