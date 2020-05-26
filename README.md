@@ -16,4 +16,4 @@ Read about TINA, a new interactive app that counsels cancer patients on how to a
 ## Scientific Concept Posters for Elementary School Students and their Families
 Science Night is an annual highly-attended event at a public elementary school. It is an evening of fun, hands-on STEM activities for students and their families to explore science and engineering concepts. 
 ## Humorous Opinion
-After seeing Hamilton, forget about Brexit, it’s time to Brit-In.
+After seeing *Hamilton*, forget about Brexit, it’s time to Brit-In.
