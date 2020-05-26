@@ -11,8 +11,8 @@ Learn how to set-up and use the syntax highlighting and live preview features fo
 
 ## [Audio Documentary](mellowtones.mp3)
 Recents studies have shown that singing may help seniors age better. This piece won 1st prize at the 2019 College Media Association’s Film and Audio Festival.  Length: 4:37. *Edited in Adobe Audition*.
-## Health News
-Read about TINA, a new interactive app that counsels cancer patients on how to avoid neutropenia, one of chemo’s most dangerous side effects.
+## Health News Brief
+Read about TINA, an interactive app that counsels cancer patients on how to avoid neutropenia, one of chemo’s most dangerous side effects.
 ## Scientific Concept Posters for Elementary School Students and their Families
 Science Night is a highly-attended annual event at a public elementary school in greater Boston with 650+ students from diverse backgrounds. It is an evening of fun, hands-on STEM activities for students and their families to explore science and engineering concepts. 
 ## Humorous Opinion
