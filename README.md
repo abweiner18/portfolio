@@ -1,4 +1,14 @@
-# Anita Weiner
+# Anita Weiner - Technical Writing Portfolio
+
+# Header1
+## Header 2
+### Header 3
+#### Headers 4
+##### Header 5
+###### Heaader 6
+paragraph text here
+
+
 ## Technical Writing Portfolio
 ### [Video Tutorial](Anita_HW_Camtasia3.mp4)
 Produced in Camtasia.
