@@ -15,5 +15,5 @@ Recents studies have shown that singing may help seniors age better. This piece 
 Read about TINA, an app that counsels cancer patients on how to avoid neutropenia, one of chemo’s most dangerous side effects.
 ## [Scientific Concept Posters for Elementary School Students and their Families](ScienceNightPosters.pdf)
 Science Night is a highly-attended annual event at a public elementary school in greater Boston with 650+ students from diverse backgrounds. It is an evening of fun, hands-on STEM activities for students and their families to explore science and engineering concepts. 
-## Humorous Opinion
-After seeing *Hamilton*, forget about Brexit, it’s time to *Brit-In*.
+## [Humorous Opinion](Brit_In.md)
+After seeing *Hamilton*, forget about Brexit. It’s time to *Brit-In*.
