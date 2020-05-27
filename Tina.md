@@ -3,7 +3,7 @@
 
 Atlanta, GA – Neutropenia sounds scary -- and it is. It's a potentially fatal side effect of chemotherapy. But patients can significantly reduce their risk of neutropenia by simply talking to Tina. Tina is a healthcare professional. She’s extremely knowledgeable. She’s very clear, calm and sympathetic. And... she’s an app.
 
-<img align="right" src="tina.jpg">  
+!<img align="right" src="tina.jpg">  
 
 [TINA](https://www.preventcancerinfections.org/talkwithtina/) is an app launched Thursday by the [CDC Foundation](https://www.cdcfoundation.org/). It features a digitally-animated healthcare professional (named Tina, of course) who chats with chemo patients about neutropenia and how to avoid it. TINA stands for “Talking about Infection and Neutropenia Awareness.”  
 
