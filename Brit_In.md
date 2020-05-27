@@ -3,7 +3,7 @@
 
 At a recent get together, the 17-year old daughter of a friend told me that she doesn’t like musicals anymore. She spent the meal flexing her burgeoning socio-political consciousness muscles. Musicals are escapist, she revealed to me.
 
-The midterms, the shootings, the President… with the country seemingly on a slow burn into deeper social, economic, and political division, who isn’t a sucker for a good, escapist musical right now? So you can imagine my surprise when I discovered the answer to all of our country’s woes - a solution so obvious and so elegant – singing and dancing right in front of me on stage at the Boston Opera House!
+The midterms, the shootings, the President… with the country seemingly on a slow burn into deeper social, economic, and political division, who isn’t a sucker for a good, escapist musical right now? So you can imagine my surprise when I discovered the answer to all of our country’s woes, a solution so obvious and so elegant, singing and dancing right in front of me on stage at the Boston Opera House!
 
 I saw *Hamilton*, the megahit musical currently taking the country by storm on a 20-city national tour. Or rather, I should say, I saw King George.
 
@@ -19,7 +19,7 @@ And the UK doesn’t have mass shootings. In the last two weeks alone we’ve wi
 
 Yes, I hear you whispering that it’s all about taxation without representation, right? It’s what we fought for, right? It’s true, if we become a colony again, we won’t have representation in Parliament. But come on, how much has Congress been working for you lately?
 
-Take the most recent Trump tax cut. Businesses and the top 20% of earners were the big winners. In 1775, just before the shot heard ‘round the world rang out, the only tax we colonists were paying was one cent on a pound of tea. A trifle then... and now. Uh, is that offer still on the table?
+Take the most recent Trump tax cut. Businesses and the top 20% of earners were the big winners. In 1775, just before the *shot heard ‘round the world* rang out, the only tax we colonists were paying was one cent on a pound of tea. A trifle then... and now. Uh, is that offer still on the table?
 
 Imagine with me... we’ll take afternoon tea with those cute little shortbread cookies. We’ll speak with smart, sexy British accents that automatically raise our IQs 50 points. And we get the soapy Royal Family to dote and gossip on.
 
