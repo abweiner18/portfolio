@@ -13,7 +13,7 @@ For the beginner using the Atom text editor, this short guide explains how to se
 Recents studies have shown that singing may help seniors age better. This piece won 1st Place at the 2019 College Media Association’s Film and Audio Festival.  Length: 4:37. *Edited in Adobe Audition*.
 ## [Health News Brief](Tina.md)
 Read about TINA, an app that counsels cancer patients on how to avoid neutropenia, one of chemo’s most dangerous side effects.
-## [Humorous Opinion](Brit_In.md)
-After seeing *Hamilton*, forget about Brexit. It’s time to *Brit-In*.
 ## [Scientific Concept Posters for Elementary School Students and their Families](ScienceNightPosters.pdf)
 Science Night is a highly-attended annual event at a Boston-area public elementary school with 650+ students from diverse backgrounds. It is an evening of fun, hands-on STEM activities for students and their families to explore science and engineering concepts.
+## [Humorous Opinion](Brit_In.md)
+After seeing *Hamilton*, forget about Brexit. It’s time to *Brit-In*.
