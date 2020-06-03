@@ -7,9 +7,10 @@ Learn how to set up and use the HTML live preview feature in the Atom text edito
 See how the the same information has been created and generated using different authoring tools.
 
 For the beginner using the Atom text editor, learn how to quickly set up and use the syntax highlighting and live preview features for HTML, Markdown, and RST.  
-* [DITA/Oxygen Author – Web Help](Anita_DITA_HW_REVISED/Anita_Revised/out/webhelp-responsive/index.html)
+* [DITA/Oxygen Author – Online](Anita_DITA_HW_REVISED/Anita_Revised/out/webhelp-responsive/index.html)
 * [DITA/Oxygen Author - PDF](Anita_DITA_HW_REVISED/Anita_Revised/out/pdf-css-html5/PDF.pdf)
-* [RST/Sphinx/Read the Docs](https://atom-preview.readthedocs.io/en/latest/) 
+* [RST/Sphinx/Read the Docs - Online](https://atom-preview.readthedocs.io/en/latest/) 
+* [Camtasia - Video Tutorial](Anita_HW_Camtasia4.mp4)
  
 ## [Audio Documentary](mellowtones.mp3)
 Recents studies have shown that singing may help seniors age better. This piece won 1st Place at the 2019 College Media Association’s Film and Audio Festival.  Length: 4:37. *Edited in Adobe Audition*.
