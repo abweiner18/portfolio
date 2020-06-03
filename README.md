@@ -4,7 +4,7 @@ This document contains instructions and examples for Human Resources personnel a
 ## [Video Tutorial](Anita_HW_Camtasia4.mp4)
 Learn how to set up and use the HTML live preview feature in the Atom text editor. *Produced in Camtasia*. 
 ## Authoring Tools
-The guide below has been created using different authoring tools and output options.
+See the same guide created in different authoring tools.
 
 For the beginner using the Atom text editor, learn how to set up and use the syntax highlighting and live preview features for HTML, Markdown, and RST.  
 * [DITA/Oxygen Author – Web Help](Anita_DITA_HW_REVISED/Anita_Revised/out/webhelp-responsive/index.html)
