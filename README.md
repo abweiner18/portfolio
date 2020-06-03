@@ -6,7 +6,7 @@ Learn how to set up and use the HTML live preview feature in the Atom text edito
 ## Authoring Tools
 See how the the same information has been created and generated using different authoring tools.
 
-For the beginner using the Atom text editor, learn how to set up and use the syntax highlighting and live preview features for HTML, Markdown, and RST.  
+For the beginner using the Atom text editor, learn how to quickly set up and use the syntax highlighting and live preview features for HTML, Markdown, and RST.  
 * [DITA/Oxygen Author – Web Help](Anita_DITA_HW_REVISED/Anita_Revised/out/webhelp-responsive/index.html)
 * [DITA/Oxygen Author - PDF](Anita_DITA_HW_REVISED/Anita_Revised/out/pdf-css-html5/PDF.pdf)
 * [RST/Sphinx/Read the Docs](https://atom-preview.readthedocs.io/en/latest/) 
