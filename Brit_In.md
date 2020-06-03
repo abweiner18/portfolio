@@ -1,7 +1,7 @@
 # Forget Brexit; It’s Time to *Brit-In*
 ###### *By Anita Weiner, November 11, 2018*
 
-At a recent get together, the 17-year old daughter of a friend told me that she doesn’t like musicals anymore. She spent the meal flexing her burgeoning socio-political consciousness muscles. Musicals are escapist, she revealed to me.
+At a recent get together, my friend's 17-year-old daughter told me that she doesn’t like musicals anymore. She spent the meal flexing her burgeoning socio-political consciousness muscles. Musicals are escapist, she revealed to me.
 
 The midterms, the shootings, the President… with the country seemingly on a slow burn into deeper social, economic, and political division, who isn’t a sucker for a good, escapist musical right now? So you can imagine my surprise when I discovered the answer to all of our country’s woes, a solution so obvious and so elegant, singing and dancing right in front of me on stage at the Boston Opera House!
 
