@@ -1,3 +1,5 @@
+###### Contact Info: abweiner18@gmail.com
+
 # How-To Guide
 [This document](AnitaWeiner_ACADocument.pdf) contains instructions and examples for personnel at ABC Technologies, a fictional company, to complete the main section of an IRS form required for annual Affordable Care Act (ACA) compliance. 
 # Authoring Tools: DITA, RST, Camtasia
