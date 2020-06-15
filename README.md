@@ -18,4 +18,5 @@ Science Night is a highly-attended annual event at a Boston-area public elementa
 # Humorous Opinion
 After seeing *Hamilton*, forget about Brexit. It’s time to [*Brit-In*](Brit_In.md).
 
-#### If you would like to connect, please email me at <abweiner18@gmail.com>.
+## Contact Info
+If you would like to connect with me, please email me at <abweiner18@gmail.com>.
