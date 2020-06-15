@@ -10,7 +10,7 @@ For the beginner using the Atom text editor, learn how to quickly set up and use
 * [Camtasia - Video Tutorial](Anita_HW_Camtasia4.mp4) *(tutorial covers live preview for HTML only)*
  
 # Audio Documentary
-Recents studies have shown that singing may help seniors age better. [This piece](mellowtones.mp3) won 1st Place at the 2019 College Media Association’s Film and Audio Festival.  Length: 4:37. *Edited in Adobe Audition*.
+Recents studies have shown that singing may help seniors age better. [This piece](mellowtones.mp3) won 1st Place at the 2018-19 College Media Association’s Film and Audio Festival.  Length: 4:37. *Edited in Adobe Audition*.
 # Health News Brief
 Read about [TINA](Tina.md), an app that counsels cancer patients on how to avoid neutropenia, one of chemo’s most dangerous side effects.
 # Scientific Concept Posters for Elementary School Students and their Families
