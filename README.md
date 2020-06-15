@@ -1,5 +1,3 @@
-###### Contact Info: abweiner18@gmail.com
-
 # How-To Guide
 [This document](AnitaWeiner_ACADocument.pdf) contains instructions and examples for personnel at ABC Technologies, a fictional company, to complete the main section of an IRS form required for annual Affordable Care Act (ACA) compliance. 
 # Authoring Tools: DITA, RST, Camtasia
@@ -19,3 +17,5 @@ Read about [TINA](Tina.md), an app that counsels cancer patients on how to avoid
 Science Night is a highly-attended annual event at a Boston-area public elementary school with 650+ students from diverse backgrounds. It is an evening of fun, hands-on STEM activities for students and their families to explore [science and engineering concepts](ScienceNightPosters.pdf).
 # Humorous Opinion
 After seeing *Hamilton*, forget about Brexit. It’s time to [*Brit-In*](Brit_In.md).
+
+#### If you would like to connect, please email me at abweiner18@gmail.com.
