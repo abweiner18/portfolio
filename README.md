@@ -1,5 +1,5 @@
 # Instructional Guide
-[This instructional guide](AnitaWeiner_ACAGuide.pdf) contains instructions and examples for personnel at ABC Technologies, a fictional company, to complete the main section of an IRS form required for annual Affordable Care Act (ACA) compliance. 
+This [instructional guide](AnitaWeiner_ACAGuide.pdf) contains instructions and examples for personnel at ABC Technologies, a fictional company, to complete the main section of an IRS form required for annual Affordable Care Act (ACA) compliance. 
 # Authoring Tools: DITA, RST, Camtasia
 See how the the same information has been created and generated using different authoring tools.
 
